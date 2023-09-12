@@ -7,7 +7,7 @@ import Input from '../common/input'
 export default function Hero() {
   return (
     <div className=' text-center text-white h-[100vh] '>
-     <section className='w-[60%] m-auto absolute left-56 top-[20%]'>
+     <section className='w-[60%] m-auto absolute left-72 top-[20%]'>
       <div>
       <h1 className='text-[72px] leading-[86.4px] font-[700]'>Open Payments at the Speed of Light</h1>
       <p className='text-[18px] leading-[27px] font-[400] py-8'>Unlock Groundbreaking New Payment Experiences</p>

@@ -10,6 +10,9 @@ export default function Button(props: any) {
   border: 1px solid white;
   padding: 10px 20px;
   cursor: pointer;
+  &:hover {
+      background-color: #310E93
+    }
 `;
 
   return (
